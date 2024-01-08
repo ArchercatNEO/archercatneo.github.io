@@ -1,0 +1,7 @@
+/home/ernesto/Dev/Web/Homepage/bin/Release/net8.0/publish/Homepage
+/home/ernesto/Dev/Web/Homepage/bin/Release/net8.0/publish/appsettings.Development.json
+/home/ernesto/Dev/Web/Homepage/bin/Release/net8.0/publish/appsettings.json
+/home/ernesto/Dev/Web/Homepage/bin/Release/net8.0/publish/Homepage.dll
+/home/ernesto/Dev/Web/Homepage/bin/Release/net8.0/publish/Homepage.deps.json
+/home/ernesto/Dev/Web/Homepage/bin/Release/net8.0/publish/Homepage.runtimeconfig.json
+/home/ernesto/Dev/Web/Homepage/bin/Release/net8.0/publish/Homepage.pdb
